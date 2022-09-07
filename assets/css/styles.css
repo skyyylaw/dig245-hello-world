@@ -2,15 +2,14 @@
 /* css */
 
 *{
-  text-align: center;
+  background-color: black;
+  color: white;
 }
 
 h1 {
-  color: red;
   font-size: 50px;
 }
 
 h2 {
-  color: darkblue;
   font-size: 25px;
 }
